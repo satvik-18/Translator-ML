@@ -73,8 +73,7 @@ Translator-ML/
 1. **Clone the repository**
 
 ```bash
-https://github.com/yourusername/handwriting-translator.git
-cd handwriting-translator
+https://github.com/satvik-18/Translator-ML
 ```
 
 2. **Install dependencies**
@@ -95,12 +94,6 @@ python src/main.py
    * Choose language: `H` for Hindi, `U` for Urdu
 
 5. Press `q` to exit webcam mode
-
----
-
-## 📝 Sample Output
-
-![sample\_output](assets/sample_output.jpg)
 
 ---
 
