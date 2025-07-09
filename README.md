@@ -121,11 +121,5 @@ python src/main.py
 * [Noto Fonts](https://www.google.com/get/noto/)
 * [OpenCV](https://opencv.org/)
 
----
 
-## 📃 License
-
-This project is licensed under the MIT License.
-
----
 
