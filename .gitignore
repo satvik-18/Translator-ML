@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code and PyCharm settings
+.vscode/
+.idea/
+
+# Test, logs and outputs
+*.log
+*.out
+*.tmp
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python egg and build files
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# PyInstaller
+*.spec
+
+# Pytorch, Hugging Face, Transformers cache
+.cache/
+*.ckpt
+*.pt
+*.pth
+
+# Data files
+*.csv
+*.tsv
+*.zip
+*.tar.gz
+
+# Images & output files (optional – if you don't want these on GitHub)
+output/
+*.jpg
+*.jpeg
+*.png
+
+# Local files (e.g., personal debug, notes)
+local_*
+*.bak
